@@ -28,7 +28,7 @@ Os usuários devem ser capazes de:
 
 ### O que aprendi
 
-Neste projeto, pude praticar o HTML semântico (como usar <button> no lugar de <div> para elementos clicáveis) e a metodologia BEM para nomear classes CSS, o que tornou meu código mais legível e organizado.
+Neste projeto, pude praticar o HTML semântico (como usar `<button>` no lugar de `<div>` para elementos clicáveis) e a metodologia BEM para nomear classes CSS, o que tornou meu código mais legível e organizado.
 
 Um dos maiores desafios foi aprender a criar e estilizar os estados de hover. Precisei pesquisar como aplicar:
 
