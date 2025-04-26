@@ -13,8 +13,8 @@ Os usuários devem ser capazes de:
 
 ### 🔗 Links
 
-- **Solução no Frontend Mentor:** [URL aqui]()
-- **Site ao vivo:** [GitHub Pages aqui]()
+- **Solução no Frontend Mentor:** https://www.frontendmentor.io/solutions/html5-semntico-css-com-metodologia-bem-flexbox-A8mGFsYicb
+- **Site ao vivo:** https://biarmortari.github.io/social-links-profile/
 
 ## 🛠 Meu processo
 
